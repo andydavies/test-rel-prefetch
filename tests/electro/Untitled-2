@@ -1,0 +1,5 @@
+format: "%h %l %u %t \"%r\" %s %b \"%{Referer}i\" \"%{User-agent}i\" \"%{x-http2-push}o\""
+
+
+
+d82w8p2g79qvv.cloudfront.net/tests/electro/index-prefetch-subresources.html

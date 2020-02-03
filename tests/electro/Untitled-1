@@ -1,0 +1,216 @@
+udp      17 94 src=192.168.1.100 dst=17.253.108.253 sport=56924 dport=123 src=17.253.108.253 dst=91.125.91.211 sport=123 dport=56924 use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=23.55.25.163 sport=51100 dport=443 src=23.55.25.163 dst=91.125.91.211 sport=443 dport=51100 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.100 dst=216.58.213.110 sport=60757 dport=443 src=216.58.213.110 dst=91.125.91.211 sport=443 dport=60757 [ASSURED] use=2
+udp      17 3 src=192.168.1.104 dst=192.168.1.254 sport=55325 dport=53 src=192.168.1.254 dst=192.168.1.104 sport=53 dport=55325 use=2
+unknown  2 593 src=192.168.1.107 dst=224.0.0.22 [UNREPLIED] src=224.0.0.22 dst=192.168.1.107 use=2
+tcp      6 58630 ESTABLISHED src=192.168.1.100 dst=66.102.1.189 sport=55078 dport=443 src=66.102.1.189 dst=91.125.91.211 sport=443 dport=55078 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=99.86.114.59 sport=51114 dport=443 src=99.86.114.59 dst=91.125.91.211 sport=443 dport=51114 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=18.214.235.217 sport=60727 dport=443 src=18.214.235.217 dst=91.125.91.211 sport=443 dport=60727 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=104.19.147.8 sport=51103 dport=443 src=104.19.147.8 dst=91.125.91.211 sport=443 dport=51103 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=34.205.219.97 sport=60724 dport=443 src=34.205.219.97 dst=91.125.91.211 sport=443 dport=60724 [ASSURED] use=2
+unknown  2 350 src=192.168.1.110 dst=224.0.0.22 [UNREPLIED] src=224.0.0.22 dst=192.168.1.110 use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=34.198.74.31 sport=60726 dport=443 src=34.198.74.31 dst=91.125.91.211 sport=443 dport=60726 [ASSURED] use=2
+udp      17 9 src=192.168.1.104 dst=192.168.1.254 sport=63045 dport=53 src=192.168.1.254 dst=192.168.1.104 sport=53 dport=63045 use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=172.217.169.14 sport=60755 dport=443 src=172.217.169.14 dst=91.125.91.211 sport=443 dport=60755 [ASSURED] use=2
+udp      17 294 src=192.168.1.107 dst=17.253.34.251 sport=123 dport=123 src=17.253.34.251 dst=91.125.91.211 sport=123 dport=123 use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.104 dst=216.239.38.120 sport=51047 dport=443 src=216.239.38.120 dst=91.125.91.211 sport=443 dport=51047 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.104 dst=172.217.169.65 sport=51056 dport=443 src=172.217.169.65 dst=91.125.91.211 sport=443 dport=51056 [ASSURED] use=2
+tcp      6 77242 ESTABLISHED src=192.168.1.100 dst=66.102.1.189 sport=54527 dport=443 src=66.102.1.189 dst=91.125.91.211 sport=443 dport=54527 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=157.240.1.23 sport=51090 dport=443 src=157.240.1.23 dst=91.125.91.211 sport=443 dport=51090 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.104 dst=17.248.144.147 sport=51037 dport=443 src=17.248.144.147 dst=91.125.91.211 sport=443 dport=51037 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=3.224.52.29 sport=60721 dport=443 src=3.224.52.29 dst=91.125.91.211 sport=443 dport=60721 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=3.224.52.29 sport=60720 dport=443 src=3.224.52.29 dst=91.125.91.211 sport=443 dport=60720 [ASSURED] use=2
+tcp      6 86155 ESTABLISHED src=192.168.1.109 dst=17.57.146.84 sport=49805 dport=5223 src=17.57.146.84 dst=91.125.91.211 sport=5223 dport=49805 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=172.217.169.40 sport=51071 dport=443 src=172.217.169.40 dst=91.125.91.211 sport=443 dport=51071 [ASSURED] use=2
+tcp      6 81960 ESTABLISHED src=192.168.1.100 dst=172.217.169.14 sport=58523 dport=443 src=172.217.169.14 dst=91.125.91.211 sport=443 dport=58523 [ASSURED] use=2
+tcp      6 68853 ESTABLISHED src=192.168.1.100 dst=216.58.204.238 sport=63572 dport=443 src=216.58.204.238 dst=91.125.91.211 sport=443 dport=63572 [ASSURED] use=2
+unknown  2 482 src=192.168.1.105 dst=224.0.0.22 [UNREPLIED] src=224.0.0.22 dst=192.168.1.105 use=2
+unknown  2 504 src=192.168.1.101 dst=224.0.0.22 [UNREPLIED] src=224.0.0.22 dst=192.168.1.101 use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.104 dst=17.57.146.148 sport=49451 dport=5223 src=17.57.146.148 dst=91.125.91.211 sport=5223 dport=49451 [ASSURED] use=2
+udp      17 2 src=192.168.1.104 dst=192.168.1.254 sport=61837 dport=53 src=192.168.1.254 dst=192.168.1.104 sport=53 dport=61837 use=2
+tcp      6 115 TIME_WAIT src=192.168.1.104 dst=17.252.11.247 sport=51063 dport=5228 src=17.252.11.247 dst=91.125.91.211 sport=5228 dport=51063 [ASSURED] use=2
+tcp      6 77869 ESTABLISHED src=192.168.1.100 dst=104.244.42.194 sport=51957 dport=443 src=104.244.42.194 dst=91.125.91.211 sport=443 dport=51957 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.104 dst=216.58.204.238 sport=51050 dport=443 src=216.58.204.238 dst=91.125.91.211 sport=443 dport=51050 [ASSURED] use=2
+tcp      6 7 CLOSE src=192.168.1.106 dst=17.248.144.92 sport=55709 dport=443 src=17.248.144.92 dst=91.125.91.211 sport=443 dport=55709 [ASSURED] use=2
+tcp      6 62562 ESTABLISHED src=192.168.1.100 dst=172.217.169.78 sport=55188 dport=443 src=172.217.169.78 dst=91.125.91.211 sport=443 dport=55188 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=104.16.124.175 sport=51077 dport=443 src=104.16.124.175 dst=91.125.91.211 sport=443 dport=51077 [ASSURED] use=2
+tcp      6 77309 ESTABLISHED src=192.168.1.100 dst=104.16.125.175 sport=51598 dport=443 src=104.16.125.175 dst=91.125.91.211 sport=443 dport=51598 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.100 dst=3.208.66.161 sport=60812 dport=443 src=3.208.66.161 dst=91.125.91.211 sport=443 dport=60812 [ASSURED] use=2
+tcp      6 77242 ESTABLISHED src=192.168.1.100 dst=3.9.202.151 sport=64113 dport=443 src=3.9.202.151 dst=91.125.91.211 sport=443 dport=64113 [ASSURED] use=2
+tcp      6 62562 ESTABLISHED src=192.168.1.100 dst=172.217.169.3 sport=55425 dport=443 src=172.217.169.3 dst=91.125.91.211 sport=443 dport=55425 [ASSURED] use=2
+tcp      6 0 CLOSE src=192.168.1.100 dst=3.90.171.247 sport=60813 dport=443 src=3.90.171.247 dst=91.125.91.211 sport=443 dport=60813 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=35.170.0.145 sport=60702 dport=443 src=35.170.0.145 dst=91.125.91.211 sport=443 dport=60702 [ASSURED] use=2
+tcp      6 60 TIME_WAIT src=192.168.1.104 dst=17.253.37.205 sport=51042 dport=443 src=17.253.37.205 dst=91.125.91.211 sport=443 dport=51042 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=216.58.211.165 sport=60706 dport=443 src=216.58.211.165 dst=91.125.91.211 sport=443 dport=60706 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.104 dst=216.58.210.238 sport=51053 dport=443 src=216.58.210.238 dst=91.125.91.211 sport=443 dport=51053 [ASSURED] use=2
+tcp      6 77242 ESTABLISHED src=192.168.1.100 dst=216.58.204.227 sport=52801 dport=443 src=216.58.204.227 dst=91.125.91.211 sport=443 dport=52801 [ASSURED] use=2
+tcp      6 77242 ESTABLISHED src=192.168.1.100 dst=172.217.169.14 sport=52700 dport=443 src=172.217.169.14 dst=91.125.91.211 sport=443 dport=52700 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.104 dst=172.217.169.3 sport=51048 dport=443 src=172.217.169.3 dst=91.125.91.211 sport=443 dport=51048 [ASSURED] use=2
+tcp      6 38 CLOSE_WAIT src=192.168.1.104 dst=157.240.1.52 sport=49449 dport=443 src=157.240.1.52 dst=91.125.91.211 sport=443 dport=49449 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=216.27.63.9 sport=51107 dport=443 src=216.27.63.9 dst=91.125.91.211 sport=443 dport=51107 [ASSURED] use=2
+tcp      6 52600 ESTABLISHED src=192.168.1.103 dst=104.244.42.130 sport=58130 dport=443 src=104.244.42.130 dst=91.125.91.211 sport=443 dport=58130 [ASSURED] use=2
+unknown  2 504 src=192.168.1.111 dst=239.255.255.250 [UNREPLIED] src=239.255.255.250 dst=192.168.1.111 use=2
+tcp      6 299 ESTABLISHED src=192.168.1.100 dst=192.168.1.254 sport=60708 dport=22 src=192.168.1.254 dst=192.168.1.100 sport=22 dport=60708 [ASSURED] use=2
+unknown  2 503 src=192.168.1.254 dst=224.0.0.1 [UNREPLIED] src=224.0.0.1 dst=192.168.1.254 use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.100 dst=172.217.169.42 sport=60765 dport=443 src=172.217.169.42 dst=91.125.91.211 sport=443 dport=60765 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.104 dst=31.13.90.1 sport=49444 dport=443 src=31.13.90.1 dst=91.125.91.211 sport=443 dport=49444 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=99.86.115.16 sport=60756 dport=443 src=99.86.115.16 dst=91.125.91.211 sport=443 dport=60756 [ASSURED] use=2
+udp      17 94 src=192.168.1.100 dst=17.253.34.251 sport=63634 dport=123 src=17.253.34.251 dst=91.125.91.211 sport=123 dport=63634 use=2
+tcp      6 58630 ESTABLISHED src=192.168.1.100 dst=216.58.206.99 sport=54700 dport=443 src=216.58.206.99 dst=91.125.91.211 sport=443 dport=54700 [ASSURED] use=2
+tcp      6 86376 ESTABLISHED src=192.168.1.104 dst=216.58.204.42 sport=51101 dport=443 src=216.58.204.42 dst=91.125.91.211 sport=443 dport=51101 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.105 dst=17.57.146.149 sport=51954 dport=5223 src=17.57.146.149 dst=91.125.91.211 sport=5223 dport=51954 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=64.233.184.189 sport=60793 dport=443 src=64.233.184.189 dst=91.125.91.211 sport=443 dport=60793 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=74.125.140.157 sport=51092 dport=443 src=74.125.140.157 dst=91.125.91.211 sport=443 dport=51092 [ASSURED] use=2
+tcp      6 58630 ESTABLISHED src=192.168.1.100 dst=99.86.115.54 sport=63391 dport=443 src=99.86.115.54 dst=91.125.91.211 sport=443 dport=63391 [ASSURED] use=2
+tcp      6 12 TIME_WAIT src=192.168.1.105 dst=17.171.98.35 sport=56060 dport=443 src=17.171.98.35 dst=91.125.91.211 sport=443 dport=56060 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.108 dst=40.67.251.132 sport=49417 dport=443 src=40.67.251.132 dst=91.125.91.211 sport=443 dport=49417 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=216.27.63.9 sport=51111 dport=443 src=216.27.63.9 dst=91.125.91.211 sport=443 dport=51111 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=35.170.0.145 sport=60699 dport=443 src=35.170.0.145 dst=91.125.91.211 sport=443 dport=60699 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.107 dst=17.57.146.85 sport=49296 dport=5223 src=17.57.146.85 dst=91.125.91.211 sport=5223 dport=49296 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=216.58.206.110 sport=60696 dport=443 src=216.58.206.110 dst=91.125.91.211 sport=443 dport=60696 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=216.58.206.99 sport=51097 dport=443 src=216.58.206.99 dst=91.125.91.211 sport=443 dport=51097 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.104 dst=172.217.169.35 sport=51049 dport=443 src=172.217.169.35 dst=91.125.91.211 sport=443 dport=51049 [ASSURED] use=2
+unknown  2 189 src=192.168.1.109 dst=224.0.0.22 [UNREPLIED] src=224.0.0.22 dst=192.168.1.109 use=2
+udp      17 171 src=91.125.91.211 dst=213.120.234.38 sport=50085 dport=53 src=213.120.234.38 dst=91.125.91.211 sport=53 dport=50085 [ASSURED] use=2
+tcp      6 49733 ESTABLISHED src=192.168.1.110 dst=17.57.146.84 sport=53623 dport=5223 src=17.57.146.84 dst=91.125.91.211 sport=5223 dport=53623 [ASSURED] use=2
+tcp      6 86155 ESTABLISHED src=192.168.1.110 dst=17.57.146.84 sport=53626 dport=5223 src=17.57.146.84 dst=91.125.91.211 sport=5223 dport=53626 [ASSURED] use=2
+tcp      6 12754 ESTABLISHED src=192.168.1.102 dst=52.31.190.58 sport=65219 dport=443 src=52.31.190.58 dst=91.125.91.211 sport=443 dport=65219 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.104 dst=216.58.204.226 sport=51057 dport=443 src=216.58.204.226 dst=91.125.91.211 sport=443 dport=51057 [ASSURED] use=2
+tcp      6 62562 ESTABLISHED src=192.168.1.100 dst=35.186.241.40 sport=55145 dport=443 src=35.186.241.40 dst=91.125.91.211 sport=443 dport=55145 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=17.248.144.16 sport=60795 dport=443 src=17.248.144.16 dst=91.125.91.211 sport=443 dport=60795 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=23.212.232.226 sport=51116 dport=443 src=23.212.232.226 dst=91.125.91.211 sport=443 dport=51116 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=13.35.58.241 sport=51113 dport=443 src=13.35.58.241 dst=91.125.91.211 sport=443 dport=51113 [ASSURED] use=2
+tcp      6 77242 ESTABLISHED src=192.168.1.100 dst=216.58.213.97 sport=50916 dport=443 src=216.58.213.97 dst=91.125.91.211 sport=443 dport=50916 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=152.199.21.118 sport=60773 dport=443 src=152.199.21.118 dst=91.125.91.211 sport=443 dport=60773 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=23.212.232.226 sport=51120 dport=443 src=23.212.232.226 dst=91.125.91.211 sport=443 dport=51120 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.104 dst=172.217.169.66 sport=51059 dport=443 src=172.217.169.66 dst=91.125.91.211 sport=443 dport=51059 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.104 dst=172.217.169.66 sport=51058 dport=443 src=172.217.169.66 dst=91.125.91.211 sport=443 dport=51058 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=13.224.227.122 sport=60754 dport=443 src=13.224.227.122 dst=91.125.91.211 sport=443 dport=60754 [ASSURED] use=2
+tcp      6 86 TIME_WAIT src=192.168.1.104 dst=216.58.213.110 sport=51067 dport=443 src=216.58.213.110 dst=91.125.91.211 sport=443 dport=51067 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=17.248.144.13 sport=60796 dport=443 src=17.248.144.13 dst=91.125.91.211 sport=443 dport=60796 [ASSURED] use=2
+tcp      6 77242 ESTABLISHED src=192.168.1.100 dst=216.58.204.1 sport=50917 dport=443 src=216.58.204.1 dst=91.125.91.211 sport=443 dport=50917 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=216.27.63.9 sport=51109 dport=443 src=216.27.63.9 dst=91.125.91.211 sport=443 dport=51109 [ASSURED] use=2
+tcp      6 76980 ESTABLISHED src=192.168.1.100 dst=68.232.34.200 sport=51738 dport=443 src=68.232.34.200 dst=91.125.91.211 sport=443 dport=51738 [ASSURED] use=2
+udp      17 294 src=192.168.1.107 dst=17.253.108.125 sport=123 dport=123 src=17.253.108.125 dst=91.125.91.211 sport=123 dport=123 use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=13.35.58.254 sport=51074 dport=443 src=13.35.58.254 dst=91.125.91.211 sport=443 dport=51074 [ASSURED] use=2
+tcp      6 0 CLOSE src=192.168.1.100 dst=3.92.153.62 sport=60814 dport=443 src=3.92.153.62 dst=91.125.91.211 sport=443 dport=60814 [ASSURED] use=2
+tcp      6 59972 ESTABLISHED src=192.168.1.100 dst=74.125.140.188 sport=55126 dport=5228 src=74.125.140.188 dst=91.125.91.211 sport=5228 dport=55126 [ASSURED] use=2
+tcp      6 86155 ESTABLISHED src=192.168.1.102 dst=17.57.146.148 sport=50838 dport=5223 src=17.57.146.148 dst=91.125.91.211 sport=5223 dport=50838 [ASSURED] use=2
+udp      17 5 src=192.168.1.104 dst=192.168.1.254 sport=58947 dport=53 src=192.168.1.254 dst=192.168.1.104 sport=53 dport=58947 use=2
+tcp      6 42 CLOSE_WAIT src=192.168.1.104 dst=157.240.1.52 sport=49447 dport=443 src=157.240.1.52 dst=91.125.91.211 sport=443 dport=49447 [ASSURED] use=2
+tcp      6 54 TIME_WAIT src=192.168.1.104 dst=17.248.144.182 sport=51033 dport=443 src=17.248.144.182 dst=91.125.91.211 sport=443 dport=51033 [ASSURED] use=2
+tcp      6 86204 ESTABLISHED src=192.168.1.100 dst=172.217.169.3 sport=60703 dport=443 src=172.217.169.3 dst=91.125.91.211 sport=443 dport=60703 [ASSURED] use=2
+tcp      6 86280 ESTABLISHED src=192.168.1.105 dst=192.229.220.133 sport=56061 dport=443 src=192.229.220.133 dst=91.125.91.211 sport=443 dport=56061 [ASSURED] use=2
+tcp      6 63086 ESTABLISHED src=192.168.1.100 dst=104.244.42.2 sport=55184 dport=443 src=104.244.42.2 dst=91.125.91.211 sport=443 dport=55184 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=157.240.1.35 sport=51098 dport=443 src=157.240.1.35 dst=91.125.91.211 sport=443 dport=51098 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.100 dst=172.217.169.42 sport=60753 dport=443 src=172.217.169.42 dst=91.125.91.211 sport=443 dport=60753 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=216.58.204.226 sport=51088 dport=443 src=216.58.204.226 dst=91.125.91.211 sport=443 dport=51088 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=34.235.81.84 sport=60725 dport=443 src=34.235.81.84 dst=91.125.91.211 sport=443 dport=60725 [ASSURED] use=2
+udp      17 294 src=192.168.1.107 dst=17.253.34.125 sport=123 dport=123 src=17.253.34.125 dst=91.125.91.211 sport=123 dport=123 use=2
+udp      17 20 src=192.168.1.107 dst=192.168.1.254 sport=53100 dport=53 src=192.168.1.254 dst=192.168.1.107 sport=53 dport=53100 use=2
+tcp      6 69 TIME_WAIT src=192.168.1.104 dst=17.253.37.205 sport=51041 dport=443 src=17.253.37.205 dst=91.125.91.211 sport=443 dport=51041 [ASSURED] use=2
+tcp      6 86155 ESTABLISHED src=192.168.1.106 dst=17.57.146.149 sport=49589 dport=5223 src=17.57.146.149 dst=91.125.91.211 sport=5223 dport=49589 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=13.107.22.200 sport=51089 dport=443 src=13.107.22.200 dst=91.125.91.211 sport=443 dport=51089 [ASSURED] use=2
+udp      17 166 src=192.168.1.117 dst=23.23.189.16 sport=34777 dport=33434 [UNREPLIED] src=23.23.189.16 dst=91.125.91.211 sport=33434 dport=34777 use=2
+tcp      6 10133 ESTABLISHED src=192.168.1.114 dst=52.16.92.96 sport=45648 dport=443 [UNREPLIED] src=52.16.92.96 dst=91.125.91.211 sport=443 dport=45648 use=2
+udp      17 5 src=192.168.1.104 dst=192.168.1.254 sport=56684 dport=53 src=192.168.1.254 dst=192.168.1.104 sport=53 dport=56684 use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.107 dst=17.253.35.202 sport=56169 dport=443 src=17.253.35.202 dst=91.125.91.211 sport=443 dport=56169 [ASSURED] use=2
+tcp      6 86105 ESTABLISHED src=192.168.1.100 dst=104.244.42.194 sport=58874 dport=443 src=104.244.42.194 dst=91.125.91.211 sport=443 dport=58874 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=216.58.204.238 sport=60766 dport=443 src=216.58.204.238 dst=91.125.91.211 sport=443 dport=60766 [ASSURED] use=2
+tcp      6 83009 ESTABLISHED src=192.168.1.101 dst=52.95.121.5 sport=49903 dport=443 src=52.95.121.5 dst=91.125.91.211 sport=443 dport=49903 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=104.244.42.194 sport=60692 dport=443 src=104.244.42.194 dst=91.125.91.211 sport=443 dport=60692 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.104 dst=157.240.1.18 sport=49453 dport=443 src=157.240.1.18 dst=91.125.91.211 sport=443 dport=49453 [ASSURED] use=2
+udp      17 94 src=192.168.1.100 dst=17.253.34.253 sport=64749 dport=123 src=17.253.34.253 dst=91.125.91.211 sport=123 dport=64749 use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=216.58.204.46 sport=51073 dport=443 src=216.58.204.46 dst=91.125.91.211 sport=443 dport=51073 [ASSURED] use=2
+tcp      6 46 CLOSE_WAIT src=192.168.1.104 dst=157.240.1.52 sport=49446 dport=443 src=157.240.1.52 dst=91.125.91.211 sport=443 dport=49446 [ASSURED] use=2
+udp      17 22 src=127.0.0.1 dst=127.0.0.1 sport=45000 dport=45032 [UNREPLIED] src=127.0.0.1 dst=127.0.0.1 sport=45032 dport=45000 use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=3.224.52.29 sport=60719 dport=443 src=3.224.52.29 dst=91.125.91.211 sport=443 dport=60719 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=216.27.63.9 sport=51112 dport=443 src=216.27.63.9 dst=91.125.91.211 sport=443 dport=51112 [ASSURED] use=2
+tcp      6 696 ESTABLISHED src=192.168.1.104 dst=173.194.76.188 sport=51150 dport=5228 src=173.194.76.188 dst=91.125.91.211 sport=5228 dport=51150 [ASSURED] use=2
+tcp      6 77242 ESTABLISHED src=192.168.1.100 dst=52.48.61.17 sport=51496 dport=443 src=52.48.61.17 dst=91.125.91.211 sport=443 dport=51496 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=3.224.52.29 sport=60717 dport=443 src=3.224.52.29 dst=91.125.91.211 sport=443 dport=60717 [ASSURED] use=2
+tcp      6 62360 ESTABLISHED src=192.168.1.100 dst=143.204.181.100 sport=55203 dport=443 src=143.204.181.100 dst=91.125.91.211 sport=443 dport=55203 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.107 dst=104.82.66.100 sport=56170 dport=443 src=104.82.66.100 dst=91.125.91.211 sport=443 dport=56170 [ASSURED] use=2
+tcp      6 77242 ESTABLISHED src=192.168.1.100 dst=216.58.213.97 sport=50928 dport=443 src=216.58.213.97 dst=91.125.91.211 sport=443 dport=50928 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=216.58.206.142 sport=51087 dport=443 src=216.58.206.142 dst=91.125.91.211 sport=443 dport=51087 [ASSURED] use=2
+tcp      6 20 TIME_WAIT src=192.168.1.104 dst=17.248.144.182 sport=51029 dport=443 src=17.248.144.182 dst=91.125.91.211 sport=443 dport=51029 [ASSURED] use=2
+udp      17 9 src=192.168.1.104 dst=192.168.1.254 sport=56799 dport=53 src=192.168.1.254 dst=192.168.1.104 sport=53 dport=56799 use=2
+tcp      6 81698 ESTABLISHED src=192.168.1.100 dst=64.233.184.188 sport=58801 dport=5228 src=64.233.184.188 dst=91.125.91.211 sport=5228 dport=58801 [ASSURED] use=2
+udp      17 10 src=192.168.1.100 dst=192.168.1.254 sport=53745 dport=53 src=192.168.1.254 dst=192.168.1.100 sport=53 dport=53745 use=2
+tcp      6 77242 ESTABLISHED src=192.168.1.100 dst=216.58.210.229 sport=51580 dport=443 src=216.58.210.229 dst=91.125.91.211 sport=443 dport=51580 [ASSURED] use=2
+tcp      6 85630 ESTABLISHED src=192.168.1.100 dst=216.58.206.110 sport=58890 dport=443 src=216.58.206.110 dst=91.125.91.211 sport=443 dport=58890 [ASSURED] use=2
+unknown  2 408 src=192.168.1.106 dst=224.0.0.22 [UNREPLIED] src=224.0.0.22 dst=192.168.1.106 use=2
+udp      17 21 src=192.168.1.107 dst=192.168.1.254 sport=63667 dport=53 src=192.168.1.254 dst=192.168.1.107 sport=53 dport=63667 use=2
+tcp      6 49 CLOSE_WAIT src=192.168.1.104 dst=157.240.1.52 sport=49450 dport=443 src=157.240.1.52 dst=91.125.91.211 sport=443 dport=49450 [ASSURED] use=2
+udp      17 19 src=192.168.1.107 dst=192.168.1.254 sport=62458 dport=53 src=192.168.1.254 dst=192.168.1.107 sport=53 dport=62458 use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=34.252.175.85 sport=51069 dport=443 src=34.252.175.85 dst=91.125.91.211 sport=443 dport=51069 [ASSURED] use=2
+tcp      6 85106 ESTABLISHED src=192.168.1.103 dst=157.240.1.18 sport=59415 dport=443 src=157.240.1.18 dst=91.125.91.211 sport=443 dport=59415 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=216.27.63.9 sport=51110 dport=443 src=216.27.63.9 dst=91.125.91.211 sport=443 dport=51110 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=216.58.210.33 sport=51051 dport=443 src=216.58.210.33 dst=91.125.91.211 sport=443 dport=51051 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=151.101.62.208 sport=51075 dport=443 src=151.101.62.208 dst=91.125.91.211 sport=443 dport=51075 [ASSURED] use=2
+tcp      6 85893 ESTABLISHED src=192.168.1.103 dst=17.57.146.6 sport=58158 dport=5223 src=17.57.146.6 dst=91.125.91.211 sport=5223 dport=58158 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.104 dst=216.58.210.195 sport=51046 dport=443 src=216.58.210.195 dst=91.125.91.211 sport=443 dport=51046 [ASSURED] use=2
+tcp      6 4 CLOSE src=192.168.1.104 dst=17.252.11.246 sport=51062 dport=443 src=17.252.11.246 dst=91.125.91.211 sport=443 dport=51062 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.104 dst=172.217.169.65 sport=51055 dport=443 src=172.217.169.65 dst=91.125.91.211 sport=443 dport=51055 [ASSURED] use=2
+tcp      6 86155 ESTABLISHED src=192.168.1.102 dst=104.82.95.196 sport=63693 dport=443 src=104.82.95.196 dst=91.125.91.211 sport=443 dport=63693 [ASSURED] use=2
+tcp      6 13279 ESTABLISHED src=192.168.1.107 dst=17.57.146.148 sport=49289 dport=5223 src=17.57.146.148 dst=91.125.91.211 sport=5223 dport=49289 [ASSURED] use=2
+tcp      6 30 TIME_WAIT src=192.168.1.104 dst=17.248.144.89 sport=51036 dport=443 src=17.248.144.89 dst=91.125.91.211 sport=443 dport=51036 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=35.170.0.145 sport=60701 dport=443 src=35.170.0.145 dst=91.125.91.211 sport=443 dport=60701 [ASSURED] use=2
+tcp      6 76980 ESTABLISHED src=192.168.1.100 dst=93.184.220.42 sport=51695 dport=443 src=93.184.220.42 dst=91.125.91.211 sport=443 dport=51695 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=13.224.227.8 sport=51076 dport=443 src=13.224.227.8 dst=91.125.91.211 sport=443 dport=51076 [ASSURED] use=2
+udp      17 3 src=192.168.1.104 dst=192.168.1.254 sport=64762 dport=53 src=192.168.1.254 dst=192.168.1.104 sport=53 dport=64762 use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.104 dst=216.239.38.120 sport=51045 dport=443 src=216.239.38.120 dst=91.125.91.211 sport=443 dport=51045 [ASSURED] use=2
+tcp      6 56 TIME_WAIT src=192.168.1.104 dst=172.217.169.10 sport=51013 dport=443 src=172.217.169.10 dst=91.125.91.211 sport=443 dport=51013 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=52.213.139.184 sport=51117 dport=443 src=52.213.139.184 dst=91.125.91.211 sport=443 dport=51117 [ASSURED] use=2
+tcp      6 85630 ESTABLISHED src=192.168.1.100 dst=173.194.76.189 sport=59859 dport=443 src=173.194.76.189 dst=91.125.91.211 sport=443 dport=59859 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.104 dst=216.58.210.206 sport=51052 dport=443 src=216.58.210.206 dst=91.125.91.211 sport=443 dport=51052 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=157.240.1.35 sport=51099 dport=443 src=157.240.1.35 dst=91.125.91.211 sport=443 dport=51099 [ASSURED] use=2
+tcp      6 77242 ESTABLISHED src=192.168.1.100 dst=64.233.167.188 sport=59302 dport=5228 src=64.233.167.188 dst=91.125.91.211 sport=5228 dport=59302 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=35.241.56.184 sport=60771 dport=443 src=35.241.56.184 dst=91.125.91.211 sport=443 dport=60771 [ASSURED] use=2
+tcp      6 58630 ESTABLISHED src=192.168.1.100 dst=172.217.169.14 sport=54688 dport=443 src=172.217.169.14 dst=91.125.91.211 sport=443 dport=54688 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=162.125.19.131 sport=60689 dport=443 src=162.125.19.131 dst=91.125.91.211 sport=443 dport=60689 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.100 dst=173.194.76.189 sport=60695 dport=443 src=173.194.76.189 dst=91.125.91.211 sport=443 dport=60695 [ASSURED] use=2
+tcp      6 59416 ESTABLISHED src=192.168.1.100 dst=17.57.146.85 sport=50038 dport=5223 src=17.57.146.85 dst=91.125.91.211 sport=5223 dport=50038 [ASSURED] use=2
+tcp      6 85630 ESTABLISHED src=192.168.1.101 dst=52.119.197.108 sport=44854 dport=443 src=52.119.197.108 dst=91.125.91.211 sport=443 dport=44854 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=54.235.117.167 sport=51106 dport=443 src=54.235.117.167 dst=91.125.91.211 sport=443 dport=51106 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=104.244.42.194 sport=60779 dport=443 src=104.244.42.194 dst=91.125.91.211 sport=443 dport=60779 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=52.2.221.190 sport=60728 dport=443 src=52.2.221.190 dst=91.125.91.211 sport=443 dport=60728 [ASSURED] use=2
+tcp      6 85630 ESTABLISHED src=192.168.1.103 dst=104.244.42.66 sport=59414 dport=443 src=104.244.42.66 dst=91.125.91.211 sport=443 dport=59414 [ASSURED] use=2
+udp      17 28 src=192.168.1.100 dst=192.168.1.255 sport=17500 dport=17500 [UNREPLIED] src=192.168.1.255 dst=192.168.1.100 sport=17500 dport=17500 use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=172.217.169.10 sport=51072 dport=443 src=172.217.169.10 dst=91.125.91.211 sport=443 dport=51072 [ASSURED] use=2
+udp      17 9 src=192.168.1.104 dst=192.168.1.254 sport=59822 dport=53 src=192.168.1.254 dst=192.168.1.104 sport=53 dport=59822 use=2
+udp      17 1 src=192.168.1.104 dst=192.168.1.254 sport=57814 dport=53 src=192.168.1.254 dst=192.168.1.104 sport=53 dport=57814 use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=216.239.38.120 sport=51093 dport=443 src=216.239.38.120 dst=91.125.91.211 sport=443 dport=51093 [ASSURED] use=2
+udp      17 3 src=192.168.1.104 dst=192.168.1.254 sport=55682 dport=53 src=192.168.1.254 dst=192.168.1.104 sport=53 dport=55682 use=2
+tcp      6 79 TIME_WAIT src=192.168.1.104 dst=17.252.11.247 sport=51034 dport=5228 src=17.252.11.247 dst=91.125.91.211 sport=5228 dport=51034 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=17.57.146.84 sport=60679 dport=5223 src=17.57.146.84 dst=91.125.91.211 sport=5223 dport=60679 [ASSURED] use=2
+tcp      6 86305 ESTABLISHED src=192.168.1.100 dst=216.58.204.78 sport=60794 dport=443 src=216.58.204.78 dst=91.125.91.211 sport=443 dport=60794 [ASSURED] use=2
+tcp      6 77242 ESTABLISHED src=192.168.1.100 dst=64.233.167.188 sport=59301 dport=5228 src=64.233.167.188 dst=91.125.91.211 sport=5228 dport=59301 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=52.200.253.50 sport=60723 dport=443 src=52.200.253.50 dst=91.125.91.211 sport=443 dport=60723 [ASSURED] use=2
+unknown  2 225 src=192.168.1.104 dst=224.0.0.22 [UNREPLIED] src=224.0.0.22 dst=192.168.1.104 use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=216.58.204.78 sport=60792 dport=443 src=216.58.204.78 dst=91.125.91.211 sport=443 dport=60792 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=99.86.113.12 sport=51078 dport=443 src=99.86.113.12 dst=91.125.91.211 sport=443 dport=51078 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=13.224.241.114 sport=60763 dport=443 src=13.224.241.114 dst=91.125.91.211 sport=443 dport=60763 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=23.22.233.118 sport=60718 dport=443 src=23.22.233.118 dst=91.125.91.211 sport=443 dport=60718 [ASSURED] use=2
+tcp      6 49232 ESTABLISHED src=192.168.1.109 dst=17.57.146.84 sport=56018 dport=5223 src=17.57.146.84 dst=91.125.91.211 sport=5223 dport=56018 [ASSURED] use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.104 dst=216.27.63.9 sport=51108 dport=443 src=216.27.63.9 dst=91.125.91.211 sport=443 dport=51108 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=162.125.19.131 sport=60688 dport=443 src=162.125.19.131 dst=91.125.91.211 sport=443 dport=60688 [ASSURED] use=2
+udp      17 6 src=192.168.1.104 dst=192.168.1.254 sport=49315 dport=53 src=192.168.1.254 dst=192.168.1.104 sport=53 dport=49315 use=2
+tcp      6 86679 ESTABLISHED src=192.168.1.100 dst=162.125.64.7 sport=60811 dport=443 src=162.125.64.7 dst=91.125.91.211 sport=443 dport=60811 [ASSURED] use=2
+tcp      6 10133 ESTABLISHED src=192.168.1.114 dst=52.16.92.96 sport=34666 dport=443 [UNREPLIED] src=52.16.92.96 dst=91.125.91.211 sport=443 dport=34666 use=2
+unknown  2 504 src=192.168.1.100 dst=224.0.0.22 [UNREPLIED] src=224.0.0.22 dst=192.168.1.100 use=2
+tcp      6 58630 ESTABLISHED src=192.168.1.100 dst=35.186.241.40 sport=54949 dport=443 src=35.186.241.40 dst=91.125.91.211 sport=443 dport=54949 [ASSURED] use=2
+unknown  2 128 src=192.168.1.108 dst=224.0.0.22 [UNREPLIED] src=224.0.0.22 dst=192.168.1.108 use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.104 dst=17.248.144.16 sport=51035 dport=443 src=17.248.144.16 dst=91.125.91.211 sport=443 dport=51035 [ASSURED] use=2
+udp      17 28 src=192.168.1.100 dst=255.255.255.255 sport=17500 dport=17500 [UNREPLIED] src=255.255.255.255 dst=192.168.1.100 sport=17500 dport=17500 use=2
+tcp      6 81698 ESTABLISHED src=192.168.1.100 dst=64.233.184.188 sport=58802 dport=5228 src=64.233.184.188 dst=91.125.91.211 sport=5228 dport=58802 [ASSURED] use=2
+udp      17 9 src=192.168.1.104 dst=192.168.1.254 sport=56274 dport=53 src=192.168.1.254 dst=192.168.1.104 sport=53 dport=56274 use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=35.170.0.145 sport=60700 dport=443 src=35.170.0.145 dst=91.125.91.211 sport=443 dport=60700 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=52.5.197.181 sport=60722 dport=443 src=52.5.197.181 dst=91.125.91.211 sport=443 dport=60722 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=74.125.140.189 sport=60767 dport=443 src=74.125.140.189 dst=91.125.91.211 sport=443 dport=60767 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=35.170.0.145 sport=60698 dport=443 src=35.170.0.145 dst=91.125.91.211 sport=443 dport=60698 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=162.125.19.131 sport=60687 dport=443 src=162.125.19.131 dst=91.125.91.211 sport=443 dport=60687 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=140.82.113.25 sport=60761 dport=443 src=140.82.113.25 dst=91.125.91.211 sport=443 dport=60761 [ASSURED] use=2
+tcp      6 53 TIME_WAIT src=192.168.1.104 dst=216.58.213.110 sport=51038 dport=443 src=216.58.213.110 dst=91.125.91.211 sport=443 dport=51038 [ASSURED] use=2
+tcp      6 86417 ESTABLISHED src=192.168.1.100 dst=35.170.0.145 sport=60697 dport=443 src=35.170.0.145 dst=91.125.91.211 sport=443 dport=60697 [ASSURED] use=2
+ >
