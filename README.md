@@ -11,6 +11,11 @@ Each page has this set of prefetch Resource Hints added - see notes for location
 <link rel="prefetch" href="dummy-subresources/image.jpg" as="image" />
 ```
 
+Tests are available via github pages e.g. https://andydavies.github.io/test-rel-prefetch/tests/electro/index-prefetch-subresources.html
+
+GH pages use Fastly so should exhibit the behaviour of a server that has good support for HTTP/2 Prioritisation.
+
+
 Page         | Notes
 -------------|-------------
 /test-rel-prefetch/tests/electro/index-prefetch-subresources.html | Near the top of <head>, hints include as attribute
@@ -21,8 +26,5 @@ Page         | Notes
 /test-rel-prefetch/tests/electro/index-prefetch-subresources-bottom.html | At bottom of body, hints include as attribute
 /test-rel-prefetch/tests/electro/index-prefetch-subresources-bottom-no-as.html | At bottom of body, hints omit as attribute
 
-Tests are available via github pages e.g. https://andydavies.github.io/test-rel-prefetch/tests/electro/index-prefetch-subresources.html
-
-GH pages use Fastly so should exhibit the behaviour of a server that has good support for HTTP/2 Prioritisation.
 
 I can't quite remember why I wrote tests without the as attribute will update the readme if I do.
